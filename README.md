@@ -58,10 +58,11 @@ Paudha-Rakshak/
 ### 🔧 Installation & Setup Instructions
 
 1. **Clone the Repository**
+```lookml
 ```bash
 git clone https://github.com/yourusername/Paudha-Rakshak.git
 cd Paudha-Rakshak
-````
+```
 
 2. **Create and Activate Virtual Environment**
 
